@@ -1,6 +1,6 @@
 # HMM-Target-Detection-Tracking-UAV
--Final year thesis project, working with Nova Systems Australia Pty Ltd
--Testing dataset provided by Nova Systems
+*Final year thesis project, working with Nova Systems Australia Pty Ltd
+*Testing dataset provided by Nova Systems
   -asdads
 
 Target-Detection-and-Tracking-for-Unmanned-Traffic-Management-using-SWIR-MIR-EO-Imagery-Source
